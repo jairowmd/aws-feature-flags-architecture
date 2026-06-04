@@ -7,4 +7,4 @@ Cloud Architecture project implementing a Feature Flags application using AWS se
 
 # Arquitetura
 
-![Arquitetura AWS](docs/Archicheture overview.png)
+![Arquitetura AWS](docs/Archicheture-overview.png)
